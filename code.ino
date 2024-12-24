@@ -1,4 +1,4 @@
-```c
+
 // Drowsiness Detection System
 #include <Arduino.h>
 
